@@ -159,7 +159,9 @@ Todos os programas foram implementados e testados com sucesso, atendendo aos seg
 ## 📄 Licença
 
 Este projeto tem fins educacionais.
-<img width="498" height="286" alt="PixelSnowGIF" src="https://github.com/user-attachments/assets/6a33548a-b4ee-4556-96e4-e98c93dabb58" />
+
+<img width="498" height="372" alt="TrainPixelArtGIF" src="https://github.com/user-attachments/assets/b6ca825d-c931-4562-9496-2b60b465c4c3" />
+
 
 
  <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
