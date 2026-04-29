@@ -161,7 +161,3 @@ Todos os programas foram implementados e testados com sucesso, atendendo aos seg
 Este projeto tem fins educacionais.
 
 <img width="1000" height="400" alt="GatauGIF" src="https://github.com/user-attachments/assets/528b001d-2071-4c55-af9f-f02d83eb0bae" />
-
-
-
- <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
