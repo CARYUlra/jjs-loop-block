@@ -160,7 +160,7 @@ Todos os programas foram implementados e testados com sucesso, atendendo aos seg
 
 Este projeto tem fins educacionais.
 
-<img width="498" height="372" alt="TrainPixelArtGIF" src="https://github.com/user-attachments/assets/b6ca825d-c931-4562-9496-2b60b465c4c3" />
+<img width="1000" height="400" alt="GatauGIF" src="https://github.com/user-attachments/assets/528b001d-2071-4c55-af9f-f02d83eb0bae" />
 
 
 
