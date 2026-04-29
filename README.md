@@ -159,4 +159,6 @@ Todos os programas foram implementados e testados com sucesso, atendendo aos seg
 ## 📄 Licença
 
 Este projeto tem fins educacionais.
+<img width="500" height="280" alt="D4cGIF" src="https://github.com/user-attachments/assets/4103f169-56d9-4114-97fd-13c867855b13" />
+
  <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
